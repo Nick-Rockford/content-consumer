@@ -1,12 +1,13 @@
 
 Name: Jhan Doesmore
 Technology: 
-    Devices: 
-TODO
+    Devices:
         Macbook Air running MacOS BigSur with Safari and Firefox
+        Applewatch running watchOS 9
+        Apple Iphone 13X running ios 15
 
     Proficency: 
-       Above average, familial with all apple products.
+       Above average, familiar with all apple products.
 
 Attitudes and Needs:
    Follows all social media and loves K-Pop, BTS, BLACKPINKS Super Junior
@@ -26,7 +27,7 @@ Jhan is planning a trip to Korea and a K-Pop festival.
 
 Precondition: Jhan opens Safari and Youtube is already in his frequently visited tab.
 
-PostCondition:
+PostCondition: Jhan found new music he is interested in.
 
 Interaction Flow: 
 * Jhan clicks on youtube link on homepage
