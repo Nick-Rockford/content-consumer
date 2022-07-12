@@ -29,7 +29,13 @@ Precondition: Jhan opens Safari and Youtube is already in his frequently visited
 PostCondition:
 
 Interaction Flow: 
-* Jhan opens page and is presented with his assorted videos to watch.
+* Jhan clicks on youtube link on homepage
+* Youtube responds to a request for tcp. and acknowledges the request.
+* Jhans browser opens the page and is presents jhan with his assorted videos to watch.
 * Jhan click on subscriptions
+* Youtube pulls jhans subscriber list from a DB. and returns results to his device.
 * Youtube shows new post have been uploaded.
+* jhan picks a video and clicks on its icon
+* youtube opens the window to video, and loads the video file.
+* Jhan then watches the video.
 
